@@ -13,6 +13,6 @@
 ##### Software:
 - **Python** for scripts.
 - **HTML** and **CSS** for front-end REST API
-- **If This The That (IFTTT) for Notification services.
+- **If This The That (IFTTT)** for Notification services.
 - **Bleak** for BLE monitoring in *ble.py*
 - **Flask** for REST API creation
